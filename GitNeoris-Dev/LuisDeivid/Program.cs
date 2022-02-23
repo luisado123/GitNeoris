@@ -18,6 +18,10 @@ namespace LuisDeivid
         public void MetodoDeivid()
         {
             Console.WriteLine("Este es el metodo de Deivid");
+            Console.WriteLine("Hola mundo!!");
+            Console.WriteLine("Hola mundo x2!!");
+            Console.WriteLine("Hola mundo x3 :v!!");
         }
+
     }
 }
